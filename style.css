@@ -1,0 +1,33 @@
+/* style.css */
+
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f4f4f4; /* Light gray background */
+    color: #333; /* Dark gray text color */
+}
+
+h1 {
+    color: #007bff; /* Blue heading color */
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* Example of a class, if you added more elements */
+.container {
+  max-width: 800px;
+  margin: 0 auto; /* Center horizontally */
+  background-color: white; /* White container background */
+  padding: 20px; /* Add padding inside the container */
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+
+/* Example styling of paragraphs */
+p {
+    margin-bottom: 15px;
+  font-size: 1.1rem; /* Slightly larger font */
+  color: #555;
+}
